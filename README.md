@@ -2,7 +2,7 @@
 
 Após finalizar o projeto de Sistema de Ranking, eu quis dá mais um passo: ***Interface para o usuario***
 
-Como faço faculdade de engenhraria de software, meu objetivo é por participar de uma construção de um software, tanto desktop como mobile ou qualquer outro termo que se encaixe
+Como faço faculdade de engenhraria de software, meu objetivo é alcançar a fase de construção de um software, tanto desktop como mobile ou qualquer outro termo que se encaixe
 
 ## Criado a interface graças a biblioteca Tkinter
 
